@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there, Nazar's here 👋
 
-<!--
-**nazarrd/nazarrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little bit about myself:
+- 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
+- 📱 Currently heavily involved in flutter mobile development
+- 👯 I'm open to collaborating on great ideas
+- 🧛 Dark theme fanatic
+<!-- - 🤔 -->
+<!-- - 💬 -->
+<!-- - 📫 -->
+<!-- - 😄 -->
+<br />
 
-Here are some ideas to get you started:
+> In doing what we ought, we deserve no praise because it is our duty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[<img align="left" alt="profile.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
+[<img align="left" alt="far1023 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="far1023 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="far1023 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[infokom]: http://diskominfo.siakkab.go.id/
+[profile]: https://github.com/nazarrd
+[instagram]: https://instagram.com/nazarrd
+[twitter]: https://twitter.com/xpnazar
+[linkedin]: https://linkedin.com/in/nazarudin
