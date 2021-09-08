@@ -22,6 +22,6 @@
 
 [infokom]: http://diskominfo.siakkab.go.id/
 [profile]: https://github.com/nazarrd
-[instagram]: https://instagram.com/nazarrd
+[instagram]: https://instagram.com/nazar.rd
 [twitter]: https://twitter.com/xpnazar
 [linkedin]: https://linkedin.com/in/nazarudin
