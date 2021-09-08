@@ -11,7 +11,7 @@
 <!-- - 😄 -->
 <br />
 
-> In doing what we ought, we deserve no praise because it is our duty
+> Don't say you can't before you try, always give it your all.
 
 <br />
 
