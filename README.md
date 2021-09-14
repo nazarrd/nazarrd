@@ -14,7 +14,7 @@
 
 > Don't say you can't before you try, always give it your all.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true&theme=github_dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)
 
 <br />
 
