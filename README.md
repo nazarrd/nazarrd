@@ -2,6 +2,7 @@
 
 ### A little bit about myself:
 - 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
+- 😄 I'm natively speak Indonesian and fluently speak english
 - 📱 Currently heavily involved in flutter mobile development
 - 👯 I'm open to collaborating on great ideas
 - 🧛 Dark theme fanatic
@@ -12,6 +13,8 @@
 <br />
 
 > Don't say you can't before you try, always give it your all.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true)
 
 <br />
 
