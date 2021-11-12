@@ -2,7 +2,7 @@
 
 ### A little bit about myself:
 - 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
-- 🎙 I'm natively speak Indonesian and fluently speak english
+- 🎙 I'm native Indonesian and quite fluent in English
 - 📱 Currently heavily involved in flutter mobile development
 - 👯 I'm open to collaborating on great ideas
 - 🧛 Dark theme fanatic
