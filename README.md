@@ -28,5 +28,3 @@
 [instagram]: https://instagram.com/nazar.rd
 [twitter]: https://twitter.com/xpnazar
 [linkedin]: https://linkedin.com/in/nazarudin
-
-<a href="https://app.daily.dev/nazarrd"><img src="https://api.daily.dev/devcards/691285ececb8443c86ba36a6759ddef4.png?r=wgc" width="400" alt="Nazar's Dev Card"/></a>
