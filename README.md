@@ -3,7 +3,8 @@
 ### A little bit about myself:
 - 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
 - 🎙 I'm native Indonesian and quite fluent in English
-- 📱 Currently heavily involved in flutter mobile development
+- 📱 Most of my mobile app projects are made using flutter
+- 💻 Currently exploring nodejs, expressjs and mongodb
 - 👯 I'm open to collaborating on great ideas
 - 🧛 Dark theme fanatic
 <!-- - 🤔 -->
