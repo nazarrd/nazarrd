@@ -1,11 +1,13 @@
 ## Hi there, Nazar's here 👋
 
 ### A little bit about myself:
-- 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
-- 🎙 I'm native Indonesian and quite fluent in English
+- 😄 Pronouns: He / Him / His
+- 👨‍💻 Software Developer at [Dinas Komunikasi dan Informatika][infokom]
+- 📣 I'm native Indonesian and quite fluent in English
 - 📱 Most of my mobile app projects are made using flutter
-- 💻 Currently exploring nodejs, expressjs and mongodb
+- 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
 - 👯 I'm open to collaborating on great ideas
+- 📫 You can to reach me at xpnazar@gmail.com
 - 🧛 Dark theme fanatic
 <!-- - 🤔 -->
 <!-- - 💬 -->
