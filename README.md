@@ -17,6 +17,7 @@
 
 > Don't say you can't before you try, always give it your all.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nazarudin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/nazarudin?trk=profile-badge">Nazarudin ‎‎</a></div>
 ![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)
 
 <br />
