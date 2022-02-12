@@ -15,9 +15,9 @@
 <!-- - 😄 -->
 <br />
 
-> Don't say you can't before you try, always give it your all.
-![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)
-![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarrd)
+> Don't say you can't before you try, always give it your all.<br />
+![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)<br />
+![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarrd&count_private=true$cache_seconds=1800&theme=github_dark)
 
 [<img align="left" alt="profile.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 [<img align="left" alt="far1023 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
