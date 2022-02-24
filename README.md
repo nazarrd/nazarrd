@@ -3,7 +3,7 @@
 ### A little bit about myself
 
 - 😄 Pronouns: He / Him / His
-- 👨‍💻 Software Engineer at [Dinas Komunikasi dan Informatika][infokom]
+- 👨‍💻 Software Engineer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
 - 📣 I'm native Indonesian and quite fluent in English
 - 📱 Most of my mobile app projects are made using flutter
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
