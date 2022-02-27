@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### Social media <br>
+### Social media <br> 
 
 [<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][profile]
 [<img align="left" alt="instagram | Twitter" height="20px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
