@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
 - 👯 I'm open to collaborating on great ideas
 - 📫 You can to reach me at xpnazar@gmail.com
-- 🧛 Dark theme fanatic
 - 💬 Don't say you can't before you try, always give it your all
+- 🧛 Dark theme fanatic
 
 
 ### Skills
