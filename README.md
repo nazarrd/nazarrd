@@ -3,7 +3,7 @@
 ### A little bit about myself
 
 - 😄 Pronouns: He / Him / His
-- 👨‍💻 Software Engineer at [Dinas Komunikasi dan Informatika Kabupaten Siak][infokom]
+- 👨‍💻 Flutter Developer at [Cashbac][cashbac]
 - 📣 I'm native Indonesian and quite fluent in English
 - 📱 Most of my mobile app projects are made using Flutter
 - 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
@@ -50,7 +50,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{nazarrd}/count.svg) 
 
 
-[infokom]: http://diskominfo.siakkab.go.id/
+[cashbac]: http://cashbac.com/
 [profile]: https://dev.page/nazar/
 [instagram]: https://instagram.com/nazar.rd/
 [twitter]: https://twitter.com/xpnazar/
