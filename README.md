@@ -1,16 +1,17 @@
-## Hello there, Nazar is here 👋
+### Hi there 👋
 
-### A little bit about myself
+I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-- 😄 Pronouns: He / Him / His
-- 👨‍💻 Flutter Developer at [Cashbac][cashbac]
+- 🔭 I’m currently learning the [Bloc State Management](https://bloclibrary.dev) in [Flutter](https://flutter.dev/)
+- 📱 Most of my flutter app projects use [GetX State Management](https://pub.dev/packages/get)
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
+- 🌱 I’m also currently learning [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)
+- 😄 Pronouns: he/him/his
+- 🧑‍💻 I'm open to collaborating on great ideas
 - 📣 I'm native Indonesian and quite fluent in English
-- 📱 Most of my mobile app projects are made using Flutter
-- 🌱 I’m currently learning NodeJS, ExpressJS and MongoDB
-- 👯 I'm open to collaborating on great ideas
-- 📫 You can to reach me at xpnazar@gmail.com
-- 💬 Don't say you can't before you try, always give it your all
+- 💭 Don't say you can't before you try, always give it your all
 - 🧛 Dark theme fanatic
+- ⚡ Fun fact: I have a pet cat named Jimbon 🐱
 
 
 ### Skills
@@ -33,10 +34,11 @@
 
 ### Social media <br>
 
-[<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][profile]
-[<img align="left" alt="instagram | Twitter" height="20px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="twitter | Twitter" height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <br>
+[<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://dev.page/nazar/)
+[<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xpnazar@gmail.com)
+[<img align="left" alt="instagram | Twitter" height="20px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/nazar.rd/)
+[<img align="left" alt="twitter | Twitter" height="20px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/xpnazar/)
+[<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br>
 
  
 ### Github stats
@@ -49,9 +51,3 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{nazarrd}/count.svg) 
 
-
-[cashbac]: http://cashbac.com/
-[profile]: https://dev.page/nazar/
-[instagram]: https://instagram.com/nazar.rd/
-[twitter]: https://twitter.com/xpnazar/
-[linkedin]: https://linkedin.com/in/nazarudin/
