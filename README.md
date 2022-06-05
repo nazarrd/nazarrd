@@ -2,16 +2,16 @@
 
 I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-- 🔭 I’m currently learning the [Bloc State Management](https://bloclibrary.dev) in [Flutter](https://flutter.dev/)
-- 📱 Most of my flutter app projects use [GetX State Management](https://pub.dev/packages/get)
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- 🌱 I’m also currently learning [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)
 - 😄 Pronouns: he/him/his
+- 🔭 I’m currently learning the [Bloc State Management](https://bloclibrary.dev)
+- 🌱 I’m also currently learning [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)
+- 📱 Most of my Flutter app projects use [GetX State Management](https://pub.dev/packages/get)
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 🧑‍💻 I'm open to collaborating on great ideas
 - 📣 I'm native Indonesian and quite fluent in English
-- 💭 Don't say you can't before you try, always give it your all
 - 🧛 Dark theme fanatic
 - ⚡ Fun fact: I have a pet cat named Jimbon 🐱
+- 💭 Don't say you can't before you try, always give it your all
 
 
 ### Skills
