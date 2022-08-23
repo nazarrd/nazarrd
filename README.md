@@ -2,7 +2,6 @@
 
 I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-- 😄 Pronouns: he/him/his
 - 🔭 I’m currently learning the [Bloc State Management](https://bloclibrary.dev)
 - 🌱 I’m also currently learning [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)
 - 📱 Most of my Flutter app projects use [GetX State Management](https://pub.dev/packages/get)
