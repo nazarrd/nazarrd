@@ -9,8 +9,6 @@ I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia
 - 🧑‍💻 I'm open to collaborating on great ideas
 - 📣 I'm native Indonesian and quite fluent in English
 - 🧛 Dark theme fanatic
-- ⚡ Fun fact: I have a pet cat named Jimbon 🐱
-- 💭 Don't say you can't before you try, always give it your all
 
 
 ### Skills
