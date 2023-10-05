@@ -29,11 +29,11 @@ I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
 
 
-### Social media
+<!-- ### Social media
 
 [<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nazar.web.id/)
 [<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xpnazar@gmail.com)
-[<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br>
+[<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br> -->
 
  
 <!-- ### Github stats
