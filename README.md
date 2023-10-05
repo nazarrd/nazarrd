@@ -2,11 +2,11 @@
 
 I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
 
-- 🔭 I’m currently learning the [Bloc State Management](https://bloclibrary.dev)
-- 🌱 I’m also currently learning [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)
+- 🌱 Currently exploring [Shorebird](https://shorebird.dev/) for my apps
+- 🔭 Most of my Flutter Apps using [Bloc](https://bloclibrary.dev) & [GetX](https://pub.dev/packages/get) State Management
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- 📣 I'm native Indonesian and quite fluent in English
-- 🧑‍💻 I'm open to collaborating on great ideas
+- 📣 Native Indonesian and quite fluent in English
+- 🧑‍💻 Open to collaborating on great ideas
 - 🧛 Dark theme fanatic
 
 
