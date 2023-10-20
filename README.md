@@ -36,10 +36,10 @@ I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia
 [<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br> -->
 
  
-<!-- ### Github stats
+### Github stats
 
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarrd&count_private=true$cache_seconds=1800&theme=github_dark)&emsp;
-![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)<br> -->
+![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)<br>
 
 
 ### Profile Views
