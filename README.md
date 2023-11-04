@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia 🌆
+I'm a Software Developer - Flutter at [Mezink](https://mez.ink/) in Singapore 🌆
 
 - 🌱 Currently exploring [Shorebird](https://shorebird.dev/) for my apps
-- 🔭 Most of my Flutter Apps using [Bloc](https://bloclibrary.dev) & [GetX](https://pub.dev/packages/get) State Management
+- 🔭 My Flutter apps using [Bloc](https://bloclibrary.dev), [GetX](https://pub.dev/packages/get) & [Provider](https://pub.dev/packages/p) state management
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 📣 Native Indonesian and quite fluent in English
 - 🧑‍💻 Open to collaborating on great ideas
@@ -20,20 +20,20 @@ I'm a Flutter Developer at [Cashbac](https://cashbac.com/) in Jakarta, Indonesia
 ![](https://img.shields.io/badge/Vue.js-44B27F?style=for-the-badge)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-31648D?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-<!-- ### Social media
+### Social media
 
-[<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nazar.web.id/)
-[<img align="left" alt="profile.io" height="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xpnazar@gmail.com)
-[<img align="left" alt="linkedin | LinkedIn" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br> -->
+[<img src="https://img.shields.io/badge/website-07405E?style=for-the-badge&logo=About.me&logoColor=white" />](https://nazar.web.id/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xpnazar@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br>
 
  
 ### Github stats
