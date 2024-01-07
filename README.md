@@ -2,7 +2,7 @@
 
 I'm a Software Developer - Flutter at [Mezink](https://mez.ink/) in Singapore 🌆
 
-- 🌱 Currently exploring [Shorebird](https://shorebird.dev/) for my apps
+- 🌱 Currently focusing on Flutter web platform
 - 🔭 My Flutter apps using [Bloc](https://bloclibrary.dev), [GetX](https://pub.dev/packages/get) and [Provider](https://pub.dev/packages/p) state management
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 📣 Native Indonesian and quite fluent in English
