@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there, Nazar is here 👋
+Welcome to my GitHub profile! I'm passionate about technology and development, with a strong focus on the Flutter on mobile and web platform.
 
-I'm a Software Developer - Flutter at [Mezink](https://mez.ink/) in Singapore 🌆
+- 🌱 Currently Focusing On: Flutter web platform and QA automation tools
+- 💬 Ask Me About: Flutter and Dart
+- 📣 Languages: Native Indonesian and quite fluent in English
+- 🧑‍💻 Collaborations: Open to collaborating on great ideas and innovative projects
+- 🧛 Personal Preference: Dark theme fanatic
 
-- 🌱 Currently focusing on Flutter web platform
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- 📣 Native Indonesian and quite fluent in English
-- 🧑‍💻 Open to collaborating on great ideas
-- 🧛 Dark theme fanatic
-
+Feel free to explore my repositories and reach out if you have any questions or exciting collaboration opportunities!
 
 ### Skills
 
