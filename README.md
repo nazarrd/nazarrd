@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and development, w
 
 Feel free to explore my repositories and reach out if you have any questions or exciting collaboration opportunities!
 
-### Skills
+### My tech stack
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -40,10 +40,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ### Github stats
 
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarrd&count_private=true$cache_seconds=1800&theme=github_dark)&emsp;
-![github stats](https://github-readme-stats.vercel.app/api?username=nazarrd&show_icons=true&count_private=true$cache_seconds=1800&theme=github_dark)<br>
+<br>
 
 
-### Profile Views
+### Github profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{nazarrd}/count.svg) 
 
