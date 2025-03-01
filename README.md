@@ -34,16 +34,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 [<img src="https://img.shields.io/badge/website-07405E?style=for-the-badge&logo=About.me&logoColor=white" />](https://nazar.web.id/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xpnazar@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/) <br>
-
- 
-### Github stats
-
-![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarrd&count_private=true$cache_seconds=1800&theme=github_dark)&emsp;
-<br>
-
-
-### Github profile views
-
-![Visitor Count](https://profile-counter.glitch.me/{nazarrd}/count.svg) 
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nazarudin/)
