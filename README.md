@@ -1,13 +1,10 @@
 ### Hi there, Nazar is here 👋
 Welcome to my GitHub profile! I'm passionate about technology and development, with a strong focus on the Flutter on mobile and web platform.
 
-- 🌱 Currently Exploring: React with Next.js
-- 💬 Ask Me About: Flutter & Dart
-- 📣 Languages: Native Indonesian and quite fluent in English
-- 🧑‍💻 Collaborations: Open to collaborating on great ideas and innovative projects
-- 🧛 Personal Preference: Dark theme fanatic
+- 🧑‍💻 Open to collaborating on great ideas and innovative projects
+- 🧛 Dark theme fanatic
 
-Feel free to explore my repositories and reach out if you have any questions or exciting collaboration opportunities!
+Feel free to reach out if you have any questions or exciting collaboration opportunities!
 
 ### My tech stack
 
